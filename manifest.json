@@ -1,6 +1,6 @@
 {
-  "short_name": "Search Digimon or Pokemon",
-  "name": "Biblioteca",
+  "short_name": "Library",
+  "name": "library Pokemon and Digimon",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
